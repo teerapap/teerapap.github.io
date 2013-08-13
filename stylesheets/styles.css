@@ -79,6 +79,19 @@ header h1 {
 header.without-description h1 {
   margin: 10px 0;
 }
+header div.my-avatar {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  z-index: 1;
+  right: 20px;
+  top: 20px;
+  width: auto;
+}
+header div.icons-list i {
+  padding: 0px 5px;
+}
 header p {
   margin: 0;
   color: #61778B;
