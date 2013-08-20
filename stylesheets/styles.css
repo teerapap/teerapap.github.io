@@ -88,6 +88,9 @@ header div.my-avatar {
   right: 20px;
   top: 20px;
   width: auto;
+  line-height:0px;
+  border: solid 1px #ccc;
+  box-shadow: -8px 8px 10px -8px #aaa;
 }
 header div.icons-list i {
   padding: 0px 5px;
