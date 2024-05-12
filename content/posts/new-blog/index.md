@@ -1,7 +1,7 @@
 ---
 title: "New Blog"
-date: 2024-05-12T17:16:27+07:00
-draft: true
+date: 2024-05-12T21:08:27+07:00
+draft: false
 tags: []
 author: "teerapapc"
 cover:
