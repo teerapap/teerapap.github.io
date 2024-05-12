@@ -123,3 +123,6 @@ outputs:
     - RSS
     - JSON # necessary for search
 
+services:
+  googleAnalytics:
+    ID: G-JC3J2SFMWG
