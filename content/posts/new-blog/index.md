@@ -8,7 +8,7 @@ cover:
   image: "images/cover.png" # image path/url
   alt: "hugo new site command" # alt text
   relative: true
-tweetId: 
+tweetId: 1789672490257743985
 ---
 
 👋 สวัสดีและยินดีต้อนรับสู่ blog ใหม่ของผมครับ
