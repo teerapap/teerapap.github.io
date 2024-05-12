@@ -1,0 +1,70 @@
+/*
+ * custom.css
+ * Copyright (C) 2024 Teerapap Changwichukarn
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+:root {
+    --gap: 24px;
+    --content-gap: 20px;
+    --nav-width: 1024px;
+    --main-width: 720px;
+    --header-height: 60px;
+    --footer-height: 60px;
+    --radius: 8px;
+    --theme: rgb(250, 248, 241);
+    --entry: rgb(255, 255, 255);
+    --primary: rgb(30, 30, 30);
+    --secondary: rgb(108, 108, 108);
+    --tertiary: rgb(214, 214, 214);
+    --content: rgb(31, 31, 31);
+    --code-block-bg: rgb(28, 29, 33);
+    --code-bg: rgb(250, 248, 241);
+    --border: rgb(238, 238, 238);
+    --highlight-link: rgb(255, 59, 45);
+}
+
+.logo
+, #menu {
+    align-items: baseline;
+}
+
+#menu {
+    flex-wrap: wrap;
+}
+
+#menu li+li {
+    margin-inline-start: unset;
+}
+
+#menu li {
+    margin-inline-end: var(--gap);
+}
+
+.logo-subtitle {
+    font-size: 12px;
+    color: var(--secondary);
+    padding-left: 8px;
+}
+
+.post-entry .entry-cover img {
+    object-fit: cover;
+    max-height: 600px;
+}
+
+.post-content a {
+    box-shadow: 0 0px 0;
+    color: var(--highlight-link);
+}
+
+.post-content a:hover {
+    box-shadow: 0 1px 0;
+}
+
+.post-comment a:hover {
+    color: var(--highlight-link);
+    box-shadow: 0 1px 0;
+}
+
+

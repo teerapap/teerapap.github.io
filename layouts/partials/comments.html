@@ -1,0 +1,10 @@
+{{- /* Comments area start */ -}}
+{{- $tweetId := (.Param "tweetId") }}
+{{- if $tweetId }}
+<div class="post-comment">
+    <a href='https://twitter.com/intent/tweet?in_reply_to={{ $tweetId }}' target="_blank" title="Post a comment">
+        <i class="fab fa-twitter"></i>&nbsp;&nbsp;Post a comment
+    </a>
+</div>
+{{ end }}
+{{- /* Comments area end */ -}}

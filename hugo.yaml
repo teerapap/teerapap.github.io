@@ -1,3 +1,125 @@
-baseURL: https://example.org/
+baseURL: https://teerapap.net/
 languageCode: en-us
-title: My New Hugo Site
+title: Teerapap Changwichukarn - teerapap.net
+theme: PaperMod
+paginate: 7
+
+enableRobotsTXT: true
+
+minify:
+  disableXML: true
+  minifyOutput: false
+
+copyright: published by [teerapapc](https://teerapap.net) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Teerapap Changwichukarn - teerapap.net
+  description: "Tee's personal home page and blog, whatever I want to post"
+  keywords: [Blog, Post, About, Personal, Teerapap]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  dateFormat: "January 2, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: true
+
+  showReadingTime: false
+  showShareButtons: false
+  showPostNavLinks: false
+  showBreadCrumbs: false
+  showCodeCopyButtons: false
+  showWordCount: false
+  showRssButtonInSectionTermList: true
+  useHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: true
+  comments: true
+  hideMeta: false
+  hideSummary: false
+  showToc: false
+  tocOpen: true
+
+  # assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "teerapap.net"
+    subtitle: "(my blog and homepage)"
+    # icon: https://www.gravatar.com/avatar/75423c2a3d084092c095214834698fc8
+    # iconHeight: 36
+
+  socialIcons:
+    - name: twitter
+      url: "https://www.twitter.com/teerapapc"
+      icon: fa-twitter
+    - name: github
+      url: "https://www.github.com/teerapap"
+      icon: fa-github
+    - name: linkedin
+      url: "https://www.linkedin.com/in/teerapap"
+      icon: fa-linkedin
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/41803/teerapap"
+      icon: fa-stack-overflow
+
+
+  analytics:
+    # google:
+    #   SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: rss
+      name: rss
+      url: /index.xml
+      weight: 1
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 2
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 3
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 4
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
