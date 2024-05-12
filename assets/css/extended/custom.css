@@ -67,4 +67,15 @@
     box-shadow: 0 1px 0;
 }
 
+ul.post-comment {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    word-break: keep-all;
+    overflow-x: auto;
+    white-space: nowrap;
+}
 
+ul.post-comment li {
+    margin-inline-end: var(--gap);
+}
