@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "Computer parts" # alt text
   relative: true
-tweetId: 
+tweetId: 1792142003658215886
 ---
 
 เมื่อปลายปีที่แล้ว ประกอบ PC เครื่องใหม่ สาเหตุที่อยากได้เครื่องใหม่เพราะ
