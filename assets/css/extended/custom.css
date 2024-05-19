@@ -67,6 +67,19 @@
     box-shadow: 0 1px 0;
 }
 
+.post-content li dl,
+.post-content li ol,
+.post-content li ul {
+    /* remove margin from nested list */
+    margin-bottom: 0px;
+}
+
+.post-content ol,
+.post-content ul {
+    /* original value 20px times 2 */
+    padding-inline-start: 40px;
+}
+
 ul.post-comment {
     display: flex;
     flex-wrap: wrap;
