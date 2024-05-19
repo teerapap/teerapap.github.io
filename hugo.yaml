@@ -29,6 +29,7 @@ params:
   showCodeCopyButtons: false
   showWordCount: false
   showRssButtonInSectionTermList: true
+  showFullTextinRSS: true
   useHugoToc: true
   disableSpecial1stPost: true
   disableScrollToTop: true
