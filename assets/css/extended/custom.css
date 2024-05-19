@@ -92,3 +92,9 @@ ul.post-comment {
 ul.post-comment li {
     margin-inline-end: var(--gap);
 }
+
+.post-tags a {
+    background: var(--tertiary);
+    text-transform: lowercase;
+}
+
