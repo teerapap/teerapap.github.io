@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "Example output page on kobo libra 2" # alt text
   relative: true
-tweetId: 
+tweetId: 1797577243973349873
 ---
 
 ช่วง 2-3 อาทิตย์ที่ผ่านมา นั่งทำโปรเจคใหม่ของตัวเอง ชื่อว่า [mangafmt](https://github.com/teerapap/mangafmt)
