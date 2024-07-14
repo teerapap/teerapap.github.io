@@ -1,5 +1,5 @@
 ---
-title: "Make Mangafmt Run on Windows"
+title: "Make mangafmt Run on Windows"
 date: 2024-07-14T18:26:42+07:00
 draft: false
 tags: ["mangafmt", "golang", "imagemagick"]
