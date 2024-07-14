@@ -8,7 +8,7 @@ cover:
   image: "images/cover.png" # image path/url
   alt: "Cross-compilation build script" # alt text
   relative: true
-tweetId: 
+tweetId: 1812450567593377893
 ---
 
 หลังจากเดือนก่อนปล่อย [mangafmt]({{< ref "project-mangafmt" >}}) ซึ่งพัฒนาบน [WSL2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) และ Build/Run ได้บน Linux เท่านั้น ความตั้งใจถัดมาคือ อยากทำให้มันรันได้บน Windows/OSX ด้วย เพราะคนส่วนใหญ่ใช้ และส่วนตัวก็ใช้ Windows เป็นหลัก
