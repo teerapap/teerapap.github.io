@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "Metroid" # alt text
   relative: true
-tweetId: 
+tweetId: 1820823270444409154
 ---
 
 โตมากับเกมของ Nintendo แต่แทบไม่เคยได้ยินชื่อเกม [Metroid](https://en.wikipedia.org/wiki/Metroid) มาก่อนเลย ตอนเด็กๆก็เล่นแต่ [Rockman](https://en.wikipedia.org/wiki/Mega_Man)
