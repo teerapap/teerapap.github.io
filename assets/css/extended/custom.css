@@ -25,6 +25,10 @@
     --highlight-link: rgb(255, 59, 45);
 }
 
+body {
+    background: var(--theme) !important;
+}
+
 .logo
 , #menu {
     align-items: baseline;
