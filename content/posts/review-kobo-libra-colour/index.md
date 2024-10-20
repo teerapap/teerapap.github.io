@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "Kobo Libra Colour with Vinland Saga Cover" # alt text
   relative: true
-tweetId: 
+tweetId: 1847926451162808528
 ---
 
 ต้นปีที่ผ่านมานี้ [Kobo](https://www.kobo.com/) (คู่แข่ง [Kindle](https://en.wikipedia.org/wiki/Amazon_Kindle)) เปิดศักราชใหม่ด้วยการออกรุ่นใหม่เป็นจอสี ชื่อ [Kobo Libra Colour](https://gl.kobobooks.com/products/kobo-libra-colour) ส่วนตัวใช้ [Kobo Libra 2](https://gl.kobobooks.com/collections/ereaders/products/kobo-libra-2) (รุ่นก่อนหน้าของรุ่นใหม่นี้) มาก่อนอยู่แล้วและค่อนข้างชอบ (ชอบมากกว่า Kindle ที่เคยใช้)
