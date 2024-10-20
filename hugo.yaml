@@ -13,7 +13,6 @@ minify:
 copyright: published by [teerapapc](https://teerapap.net) under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Teerapap Changwichukarn - teerapap.net
   description: "Tee's personal home page and blog, whatever I want to post"
   keywords: [Blog, Post, About, Personal, Teerapap]
