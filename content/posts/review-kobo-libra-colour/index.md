@@ -2,7 +2,7 @@
 title: 'Review: Kobo Libra Colour'
 date: 2024-10-20T15:57:03+07:00
 draft: false
-tags: ["kobo", "e-reader"]
+tags: ["kobo", "e-reader", "review"]
 author: "teerapapc"
 cover:
   image: "images/cover.jpg" # image path/url
