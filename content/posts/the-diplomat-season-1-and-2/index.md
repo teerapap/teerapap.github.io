@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "The Diplomat Season 1 poster" # alt text
   relative: true
-tweetId: 
+tweetId: 1864733223953322104
 ---
 
 เห็นคนแนะนำเรื่องนี้ผ่านๆตาจากที่ไหนซักแห่งเลย Add เข้า My List ใน Netflix ไว้นานจนลืม จนหลายเดือนก่อนเปิดดูโดยไม่ได้คาดหวังอะไร ปรากฏว่าชอบมาก โดนเส้นมากๆ
