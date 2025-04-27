@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "Promotional photo for Hogwarts Legacy. By Avalanche Software - Original publication: youtube.com/watch?v=BsC-Rl9GYy0Immediate source: behance.net/gallery/105639481/Hogwarts-Legacy/modules/606346095, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=148046968" # alt text
   relative: true
-tweetId: 
+tweetId: 1916338678886223901
 ---
 
 พึ่งเล่น [Hogwarts Legacy](https://en.wikipedia.org/wiki/Hogwarts_Legacy) จบเมื่อวาน เป็น 1 ในเกมที่ตั้งใจ[ประกอบ PC ใหม่]({{< ref "build-gaming-pc-2024" >}}) เพื่อมาเล่นเลย (ตอนนี้เล่นเกือบครบแล้วเหลือแค่ [Baldur's Gate 3](https://en.wikipedia.org/wiki/Baldur's_Gate_3) รอมันลดราคาเยอะๆอยู่ ไม่ลดซักที)
