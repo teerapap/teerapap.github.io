@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "Persona 3 Reload key visual - https://megamitensei.fandom.com/wiki/Persona_3_Reload" # alt text
   relative: true
-tweetId: 
+tweetId: 1951235184852082803
 ---
 
 ได้ยินคนพูดถึง/ชื่นชมเกมตระกูล [Persona](https://en.wikipedia.org/wiki/Persona_(series)) มานานมาก แต่ไม่เคยเล่นเพราะตอนเด็กๆมีแค่ PS1 เกมช่วง PS2-PS4 เลยเป็นช่วงหลุมดำของผม
