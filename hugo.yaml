@@ -1,7 +1,7 @@
 baseURL: https://teerapap.net/
 languageCode: en-us
 title: Teerapap Changwichukarn - teerapap.net
-theme: PaperMod
+theme: ["hugo-notice", "PaperMod"]
 paginate: 7
 
 enableRobotsTXT: true
