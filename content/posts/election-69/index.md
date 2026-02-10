@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "กกตหค. ภาพจากเพจวุ้นแปลอาหาร - source: https://www.facebook.com/woonplaefood/posts/pfbid0HiWwvCwNYNTEVEuyBjEPqZnTLi2gWAzBgru2s6bmE7irv2Tj9KiacEtFaQSNNhoTl" # alt text
   relative: true
-tweetId: 
+tweetId: 2021187563000623118
 ---
 
 การเลือกตั้งใหญ่ปี 2569 ผ่านไปแล้วเมื่อวาน ในหัวเต็มไปได้วยความคิดมากมายจนเมื่อคืนนอนไม่หลับ วันนี้เลยรู้สึกต้องเขียนระบายออกมาซะหน่อยและจะได้บันทึกความคิดไว้ด้วย
