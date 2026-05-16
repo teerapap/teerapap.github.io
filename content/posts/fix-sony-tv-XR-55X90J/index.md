@@ -8,7 +8,7 @@ cover:
   image: "images/cover.jpg" # image path/url
   alt: "แผงวงจรด้านหลังจอ" # alt text
   relative: true
-tweetId: 
+tweetId: 2055504214789701738
 ---
 
 วันดีคืนดี Sony TV ที่บ้าน อายุ 3 ปี 11 เดือน ก็มีปัญหา อาการมีหลายอย่างปนๆกัน
